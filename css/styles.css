@@ -18,10 +18,10 @@ main {
         margin-right: auto;
         width: 50%;}
 body {background-color: lightsteelblue}
-h2 {text-align: center;
-        margin: 0 auto;
-        width:90%;
-        color: slateblue;}
+
+h2 {
+    text-align: center;
+    background-color: slateblue;}
 footer{text-align: center;
 background-color: purple;
 color: white;
