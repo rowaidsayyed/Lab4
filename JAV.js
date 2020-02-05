@@ -1,8 +1,6 @@
 check= confirm("Press a button!");
 var name =prompt("Please enter your name",'102 programmer');
-setTimeout(function(){ alert("Welcome 102d5");}, 1500);
-setTimeout(function(){ prompt("Please enter your major");}, 3000);
-    
+alert("Welcome 102d5"); 
 if (check == true) 
 {   txt = "You pressed OK!"; }
 else 
